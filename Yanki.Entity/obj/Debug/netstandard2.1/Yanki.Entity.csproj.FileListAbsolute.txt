@@ -16,3 +16,13 @@ C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard
 C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.csproj.CoreCompileInputs.cache
 C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.dll
 C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.pdb
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.Entity\bin\Debug\netstandard2.1\Yanki.Entity.deps.json
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.Entity\bin\Debug\netstandard2.1\Yanki.Entity.dll
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.Entity\bin\Debug\netstandard2.1\Yanki.Entity.pdb
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.csproj.AssemblyReference.cache
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.AssemblyInfoInputs.cache
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.AssemblyInfo.cs
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.dll
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.pdb

@@ -22,3 +22,16 @@ C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.DataAccess\obj\Debug\netstan
 C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.csproj.CopyComplete
 C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.dll
 C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.pdb
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\bin\Debug\netstandard2.1\Yanki.DataAccess.deps.json
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\bin\Debug\netstandard2.1\Yanki.DataAccess.dll
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\bin\Debug\netstandard2.1\Yanki.DataAccess.pdb
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\bin\Debug\netstandard2.1\Yanki.Entity.dll
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\bin\Debug\netstandard2.1\Yanki.Entity.pdb
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.AssemblyInfo.cs
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.csproj.CopyComplete
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.dll
+C:\Users\Oğuzhan\source\repos\YankiElektronik\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.pdb

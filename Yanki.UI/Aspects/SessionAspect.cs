@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Yanki.Entity.Concrete;
+using Yanki.UI.Extensions;
 
 namespace Yanki.UI.Aspects
 {
@@ -11,7 +12,7 @@ namespace Yanki.UI.Aspects
     {
         public override void OnActionExecuted(ActionExecutedContext context)
         {
-           Admin activeAdmin=context.HttpContext.Session.GetObject<Admin>
+            Admin activeAdmin = context.HttpContext.Session.GetObject<Admin>("activeAdmin");
         }
     }
 }
